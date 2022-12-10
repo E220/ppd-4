@@ -1,0 +1,15 @@
+D:\Uni\ppd\ppd-4\bin\Debug\net6.0\ppd-4.exe
+D:\Uni\ppd\ppd-4\bin\Debug\net6.0\ppd-4.deps.json
+D:\Uni\ppd\ppd-4\bin\Debug\net6.0\ppd-4.runtimeconfig.json
+D:\Uni\ppd\ppd-4\bin\Debug\net6.0\ppd-4.dll
+D:\Uni\ppd\ppd-4\bin\Debug\net6.0\ppd-4.pdb
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.csproj.AssemblyReference.cache
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.AssemblyInfoInputs.cache
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.AssemblyInfo.cs
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.csproj.CoreCompileInputs.cache
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.dll
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\refint\ppd-4.dll
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.pdb
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ppd-4.genruntimeconfig.cache
+D:\Uni\ppd\ppd-4\obj\Debug\net6.0\ref\ppd-4.dll
